@@ -1,3 +1,3 @@
-# BASIC POKER BOT
+# Basic "Kuhn" Poker Bot
 
 # Rock Paper Scissors Lizard Spoke
