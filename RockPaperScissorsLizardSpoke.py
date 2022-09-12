@@ -15,7 +15,7 @@ class RPSTrainer:
                     [1, 0, -1, 1, -1],
                     [-1, 1, 0, 1, -1],
                     [1, -1, -1, 0, 1],
-                    [-1, 1, 1, -1, 0]
+                    [-1, 1, 1, -1, 99]
                 ])
         self.regret_sum = np.zeros(self.NUM_ACTIONS)
         self.strategy_sum = np.zeros(self.NUM_ACTIONS)
